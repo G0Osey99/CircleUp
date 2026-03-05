@@ -54,7 +54,7 @@ No accounts. No passwords. No GPS tracking between users. Everything lives in yo
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOURNAME/circleup.git
+git clone https://github.com/G0Osey99/circleup.git
 cd circleup
 ```
 
